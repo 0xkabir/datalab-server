@@ -5,8 +5,14 @@ const port = 5000
 
 app.use(cors())
 
-app.get('/', (req, res) => {
-  res.send('DataLab Server Running')
+const courses = require('./data/courses.json')
+
+app.get('/', (request, response) => {
+  response.send('DataLab Server Running')
+})
+
+app.get('/courses', (request, response) => {
+    response.send(courses)
 })
 
 app.listen(port, () => {
