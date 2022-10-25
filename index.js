@@ -15,6 +15,12 @@ app.get('/courses', (request, response) => {
     response.send(courses)
 })
 
+app.get('/courses/:id', (request, response) => {
+    const id = request.params.id
+    const selectedCourse = courses.find(course => course._id === id)
+    response.send(selectedCourse)
+})
+
 app.listen(port, () => {
   console.log(`DataLab server running on port ${port}`)
 })
