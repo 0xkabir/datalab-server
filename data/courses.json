@@ -3,7 +3,7 @@
         "_id":"6357f7f3daa9b5562d988c85",
         "name":"Microsoft Excel - From Beginner to Advanced",
         "author": "Md. Sadiken Kabir",
-        "imgurl": "https://i.ibb.co/54dZVZC/excel.png",
+        "imgurl": "https://i.ibb.co/WGDyzr5/excel.png",
         "description": {
             "intro": "Either you're new to Microsoft Excel, or you've played around with Excel since long but want to get more comfortable with MS Excel's advanced features, or maybe you want to enhance your data analysis skills using Microsoft Excel. Either way, this Excel course will be great for you.",
             "features": [
@@ -33,7 +33,7 @@
         "_id":"6357f7f3a961b81886c6b78e",
         "name": "Microsoft PowerBI Desktop for Business Intelligence",
         "author": "Md. Sadiken Kabir",
-        "imgurl":"https://i.ibb.co/qpvwxhH/powerBI.png",
+        "imgurl":"https://i.ibb.co/ggmQmhJ/powerBI.png",
         "description":{
             "intro": "You want to analyze data from single or multiple sources? You want to create your individual datasets based on these sources and transform your results into beautiful and easy-to-make visualizations? You also want to share your results with colleagues or collaborate on your projects? Then the Power BI tools are the tools to choose for you!",
             "features":[
@@ -60,7 +60,7 @@
         "_id":"6357f7f33073275551efcfaa",
         "name": "Probability and Statistics for Business and Data Science",
         "author": "Md. Sadiken Kabir",
-        "imgurl":"https://i.ibb.co/kBdhQk6/probability.png",
+        "imgurl":"https://i.ibb.co/0jKmfbg/probability.png",
         "description":{
             "intro":"Welcome to Probability and Statistics for Business and Data Science!In this course we cover what you need to know about probability and statistics to succeed in business and the data science field! This practical course will go over theory and implementation of statistics to real world problems. Each section has example problems, in course quizzes, and assessment tests.",
             "features":[
@@ -95,7 +95,7 @@
         "_id":"6357f7f393497d61d334585a",
         "name":"Data Analysis with Python Bootcamp",
         "author": "Md. Sadiken Kabir",
-        "imgurl":"https://i.ibb.co/nc0wbTj/data-analysis.png",
+        "imgurl":"https://i.ibb.co/4t7xGpv/data-analysis.png",
         "description":{
             "intro": "Most data analyst, data science, and coding courses miss a critical practical step. They don’t teach you how to work with raw data, how to clean, and preprocess it. This creates a sizeable gap between the skills you need on the job and the abilities you have acquired in training. Truth be told, real-world data is messy, so you need to know how to overcome this obstacle to become an independent data professional.",
             "features":[
@@ -123,7 +123,7 @@
         "_id":"6357f7f37fccd5b7a3f3f493",
         "name":"SQL for Data Analytics and Business Intelligence",
         "author": "Md. Sadiken Kabir",
-        "imgurl":"https://i.ibb.co/frbR4SW/sql.png",
+        "imgurl":"https://i.ibb.co/72KM5tV/sql.png",
         "description":{
             "intro":"Database Management is really important in the age of big data and analytics, but how many people have these skills? Well, not enough. This is why now is the time to learn SQL and gain a competitive advantage in the job market.",
             "features":[
@@ -161,7 +161,7 @@
         "_id":"6357f8822393b367685dddcd",
         "name": "The Data Scientist Course: A Complete Data Science Bootcamp",
         "author": "Md. Sadiken Kabir",
-        "imgurl":"https://i.ibb.co/xXYf877/data-science.png",
+        "imgurl":"https://i.ibb.co/QHk0Jq8/data-science.png",
         "description": {
             "intro": "Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace.",
             "features": [
