@@ -2,6 +2,7 @@
     {
         "_id":"6357f7f3daa9b5562d988c85",
         "name":"Microsoft Excel - From Beginner to Advanced",
+        "author": "Md. Sadiken Kabir",
         "imgurl": "https://i.ibb.co/54dZVZC/excel.png",
         "description": {
             "intro": "Either you're new to Microsoft Excel, or you've played around with Excel since long but want to get more comfortable with MS Excel's advanced features, or maybe you want to enhance your data analysis skills using Microsoft Excel. Either way, this Excel course will be great for you.",
@@ -22,12 +23,17 @@
                 "And so much more!!"
             ],
             "conclusion": "By the end of this course, your confidence in using MS Excel will soar. You will learn how Microsoft Excel can play a pivotal role in data analysis and related field. You'll also have a thorough understanding of how to use Microsoft Excel for study or as a career opportunity."
-        }
+        },
+        "rating": "4.6",
+        "reviews": "3650",
+        "price": "18.99",
+        "isBestSeller": "true"
     },
     {
         "_id":"6357f7f3a961b81886c6b78e",
-        "imgurl":"https://i.ibb.co/qpvwxhH/powerBI.png",
         "name": "Microsoft PowerBI Desktop for Business Intelligence",
+        "author": "Md. Sadiken Kabir",
+        "imgurl":"https://i.ibb.co/qpvwxhH/powerBI.png",
         "description":{
             "intro": "You want to analyze data from single or multiple sources? You want to create your individual datasets based on these sources and transform your results into beautiful and easy-to-make visualizations? You also want to share your results with colleagues or collaborate on your projects? Then the Power BI tools are the tools to choose for you!",
             "features":[
@@ -44,12 +50,17 @@
                 "And much more!!"
             ],
             "conclusion":"By the time you complete this course, you'll be a highly proficient Power BI user. You will be using your skills as a data scientist to extract knowledge from data so you can analyze and visualize complex questions with ease."
-        }
+        },
+        "rating": "4.5",
+        "reviews": "1832",
+        "price": "24.99",
+        "isBestSeller": "false"
     },
     {
         "_id":"6357f7f33073275551efcfaa",
-        "imgurl":"https://i.ibb.co/kBdhQk6/probability.png",
         "name": "Probability and Statistics for Business and Data Science",
+        "author": "Md. Sadiken Kabir",
+        "imgurl":"https://i.ibb.co/kBdhQk6/probability.png",
         "description":{
             "intro":"Welcome to Probability and Statistics for Business and Data Science!In this course we cover what you need to know about probability and statistics to succeed in business and the data science field! This practical course will go over theory and implementation of statistics to real world problems. Each section has example problems, in course quizzes, and assessment tests.",
             "features":[
@@ -74,12 +85,17 @@
                 "and much more!"
             ],
             "conclusion": "We'll cover everything you need to know about statistics and probability to clearly tackle real world business and data science problems! So what are you waiting for? Enroll today and we'll see you inside the course!"
-        }
+        },
+        "rating": "4.7",
+        "reviews": "2118",
+        "price": "14.99",
+        "isBestSeller": "true"
     },
     {
         "_id":"6357f7f393497d61d334585a",
-        "imgurl":"https://i.ibb.co/nc0wbTj/data-analysis.png",
         "name":"Data Analysis with Python Bootcamp",
+        "author": "Md. Sadiken Kabir",
+        "imgurl":"https://i.ibb.co/nc0wbTj/data-analysis.png",
         "description":{
             "intro": "Most data analyst, data science, and coding courses miss a critical practical step. They don’t teach you how to work with raw data, how to clean, and preprocess it. This creates a sizeable gap between the skills you need on the job and the abilities you have acquired in training. Truth be told, real-world data is messy, so you need to know how to overcome this obstacle to become an independent data professional.",
             "features":[
@@ -97,12 +113,17 @@
                 "and much more!"
             ],
             "conclusion":"The course contains plenty of exercises and practical cases. In the end, we have included a comprehensive practical example that will show you how everything you have learned along the way comes nicely together. This is where you will be able to appreciate how far you have come in your journey to becoming a data analyst and starting your data career."
-        }
+        },
+        "rating": "4.6",
+        "reviews": "4873",
+        "price": "34.99",
+        "isBestSeller": "false"
     },
     {
         "_id":"6357f7f37fccd5b7a3f3f493",
-        "imgurl":"https://i.ibb.co/frbR4SW/sql.png",
         "name":"SQL for Data Analytics and Business Intelligence",
+        "author": "Md. Sadiken Kabir",
+        "imgurl":"https://i.ibb.co/frbR4SW/sql.png",
         "description":{
             "intro":"Database Management is really important in the age of big data and analytics, but how many people have these skills? Well, not enough. This is why now is the time to learn SQL and gain a competitive advantage in the job market.",
             "features":[
@@ -130,12 +151,17 @@
                 "and much more!"
             ],
             "conclusion":"We firmly believe this course is the best training material out there. It is a truly interactive experience preparing you for a real-life working environment."
-        }
+        },
+        "rating": "4.5",
+        "reviews": "2056",
+        "price": "19.99",
+        "isBestSeller": "false"
     },
     {
         "_id":"6357f8822393b367685dddcd",
-        "imgurl":"https://i.ibb.co/xXYf877/data-science.png",
         "name": "The Data Scientist Course: A Complete Data Science Bootcamp",
+        "author": "Md. Sadiken Kabir",
+        "imgurl":"https://i.ibb.co/xXYf877/data-science.png",
         "description": {
             "intro": "Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace.",
             "features": [
@@ -150,6 +176,10 @@
                 "and much more!"
             ],
             "conclusion": "By the time you complete this course, you will become a data scientist from scratch. The content of the course is excellent, and we are certain you will love it."
-        }
+        },
+        "rating": "4.8",
+        "reviews": "8969",
+        "price": "69.99",
+        "isBestSeller": "true"
     }
 ]
