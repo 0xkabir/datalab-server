@@ -24,10 +24,10 @@
             ],
             "conclusion": "By the end of this course, your confidence in using MS Excel will soar. You will learn how Microsoft Excel can play a pivotal role in data analysis and related field. You'll also have a thorough understanding of how to use Microsoft Excel for study or as a career opportunity."
         },
-        "rating": "4.6",
-        "reviews": "3650",
-        "price": "18.99",
-        "isBestSeller": "true"
+        "rating": 4.6,
+        "reviews": 3650,
+        "price": 18.99,
+        "isBestSeller": true
     },
     {
         "_id":"6357f7f3a961b81886c6b78e",
@@ -51,10 +51,10 @@
             ],
             "conclusion":"By the time you complete this course, you'll be a highly proficient Power BI user. You will be using your skills as a data scientist to extract knowledge from data so you can analyze and visualize complex questions with ease."
         },
-        "rating": "4.5",
-        "reviews": "1832",
-        "price": "24.99",
-        "isBestSeller": "false"
+        "rating": 4.5,
+        "reviews": 1832,
+        "price": 24.99,
+        "isBestSeller": false
     },
     {
         "_id":"6357f7f33073275551efcfaa",
@@ -86,10 +86,10 @@
             ],
             "conclusion": "We'll cover everything you need to know about statistics and probability to clearly tackle real world business and data science problems! So what are you waiting for? Enroll today and we'll see you inside the course!"
         },
-        "rating": "4.7",
-        "reviews": "2118",
-        "price": "14.99",
-        "isBestSeller": "true"
+        "rating": 4.7,
+        "reviews": 2118,
+        "price": 14.99,
+        "isBestSeller": true
     },
     {
         "_id":"6357f7f393497d61d334585a",
@@ -114,10 +114,10 @@
             ],
             "conclusion":"The course contains plenty of exercises and practical cases. In the end, we have included a comprehensive practical example that will show you how everything you have learned along the way comes nicely together. This is where you will be able to appreciate how far you have come in your journey to becoming a data analyst and starting your data career."
         },
-        "rating": "4.6",
-        "reviews": "4873",
-        "price": "34.99",
-        "isBestSeller": "false"
+        "rating": 4.6,
+        "reviews": 4873,
+        "price": 34.99,
+        "isBestSeller": false
     },
     {
         "_id":"6357f7f37fccd5b7a3f3f493",
@@ -152,10 +152,10 @@
             ],
             "conclusion":"We firmly believe this course is the best training material out there. It is a truly interactive experience preparing you for a real-life working environment."
         },
-        "rating": "4.5",
-        "reviews": "2056",
-        "price": "19.99",
-        "isBestSeller": "false"
+        "rating": 4.5,
+        "reviews": 2056,
+        "price": 19.99,
+        "isBestSeller": false
     },
     {
         "_id":"6357f8822393b367685dddcd",
@@ -177,9 +177,9 @@
             ],
             "conclusion": "By the time you complete this course, you will become a data scientist from scratch. The content of the course is excellent, and we are certain you will love it."
         },
-        "rating": "4.8",
-        "reviews": "8969",
-        "price": "69.99",
-        "isBestSeller": "true"
+        "rating": 4.8,
+        "reviews": 8969,
+        "price": 69.99,
+        "isBestSeller": true
     }
 ]
