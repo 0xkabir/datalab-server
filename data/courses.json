@@ -2,6 +2,7 @@
     {
         "_id":"6357f7f3daa9b5562d988c85",
         "name":"Microsoft Excel - From Beginner to Advanced",
+        "introduction":"A Beginner's Guide to Microsoft Excel - Learn Excel Charts, Spreadsheets, Formulas, Shortcuts, Macros and Tips & Tricks",
         "author": "Md. Sadiken Kabir",
         "imgurl": "https://i.ibb.co/WGDyzr5/excel.png",
         "description": {
@@ -32,6 +33,7 @@
     {
         "_id":"6357f7f3a961b81886c6b78e",
         "name": "Microsoft PowerBI Desktop for Business Intelligence",
+        "introduction": "Master Power BI Desktop & learn advanced Power BI analysis & data visualization with a top Microsoft Power BI instructor",
         "author": "Md. Sadiken Kabir",
         "imgurl":"https://i.ibb.co/ggmQmhJ/powerBI.png",
         "description":{
@@ -59,6 +61,7 @@
     {
         "_id":"6357f7f33073275551efcfaa",
         "name": "Probability and Statistics for Business and Data Science",
+        "introduction": "Learn how to apply probability and statistics to real data science and business applications!",
         "author": "Md. Sadiken Kabir",
         "imgurl":"https://i.ibb.co/0jKmfbg/probability.png",
         "description":{
@@ -94,6 +97,7 @@
     {
         "_id":"6357f7f393497d61d334585a",
         "name":"Data Analysis with Python Bootcamp",
+        "introduction":"Complete Data Analyst Training: Python, NumPy, Pandas, Data Collection, Preprocessing, Data Types, Data Visualization.",
         "author": "Md. Sadiken Kabir",
         "imgurl":"https://i.ibb.co/4t7xGpv/data-analysis.png",
         "description":{
@@ -122,6 +126,7 @@
     {
         "_id":"6357f7f37fccd5b7a3f3f493",
         "name":"SQL for Data Analytics and Business Intelligence",
+        "introduction": "SQL that will get you hired – SQL for Business Analysis, Marketing, and Data Management",
         "author": "Md. Sadiken Kabir",
         "imgurl":"https://i.ibb.co/72KM5tV/sql.png",
         "description":{
@@ -160,6 +165,7 @@
     {
         "_id":"6357f8822393b367685dddcd",
         "name": "The Data Scientist Course: A Complete Data Science Bootcamp",
+        "introduction":"Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
         "author": "Md. Sadiken Kabir",
         "imgurl":"https://i.ibb.co/QHk0Jq8/data-science.png",
         "description": {
